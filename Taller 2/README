@@ -1,0 +1,13 @@
+En esta carpeta se incluyen los archivos ejecutables, de igual modo se adjuntan lso comandos para su compilacion.
+
+PI
+gcc -o pi -fopenmp pi.c
+gcc -o pi_par -fopenmp pi_par.c
+
+SAXPY
+gcc -o saxpy -fopenmp saxpy.c
+gcc -o saxpy_par -fopenmp saxpy_par.c
+
+EULER
+gcc -o euler -fopenmp euler.c
+gcc -o euler_par -fopenmp euler_par.c
