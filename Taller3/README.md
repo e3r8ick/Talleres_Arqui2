@@ -2,6 +2,7 @@ Para el programa de máximos
 
 ´´
 cd Maximos
+´´
 make
 ´´
 
